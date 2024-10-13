@@ -1,5 +1,5 @@
 // asyn --> this operation return the promise 
-// await --> it used to await the promise to settle 
+// await --> it is used to await the promise to settle 
 
 async function fetchData() {
     try {

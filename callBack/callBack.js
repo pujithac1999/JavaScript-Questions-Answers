@@ -1,4 +1,4 @@
-// the technique allows a function to call anther function 
+// the technique allows a function to call another function 
 
 const cal = (num1,num2,mycallback) => {
     let sum = num1 + num2;

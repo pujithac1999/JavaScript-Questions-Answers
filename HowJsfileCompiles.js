@@ -1,6 +1,8 @@
 // Javascript is scripting lanaguage 
-// Javascript is  synchronus  single -threaded lanaguage 
-
+// Javascript is  synchronus  single -threaded lanaguage(only one line of code can be executed at a time)
+ //which is used to develop dynamic web content
+ // 
+ //Vue.js is a JavaScript framework for building user interfaces and single-page applications
 const n = 3;
 const name = "abc"
 function square(num){
