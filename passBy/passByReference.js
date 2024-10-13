@@ -16,8 +16,9 @@ function PassbyReference(obj) {
 let obj = {
     a: 10,
     b: 20
-
 }
+
+
 console.log(`Before calling Pass By Reference 
     Function -> a = ${obj.a} b = ${obj.b}`);
 
